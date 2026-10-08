@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    @media (prefers-reduced-motion: reduce) {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    @apply bg-noir-950 text-noir-200 antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: rgba(16, 185, 129, 0.25);
+    color: #f1f3f8;
+  }
+
+  /* Slim, quiet scrollbar that matches the theme */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #1f2432 #0a0b10;
+  }
+  *::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  *::-webkit-scrollbar-track {
+    background: #0a0b10;
+  }
+  *::-webkit-scrollbar-thumb {
+    background: #1f2432;
+    border-radius: 4px;
+  }
+  *::-webkit-scrollbar-thumb:hover {
+    background: #2e364a;
+  }
+}
+
+@layer utilities {
+  /* Anchor targets clear the fixed header */
+  section[id] {
+    scroll-margin-top: 5rem;
+  }
+}

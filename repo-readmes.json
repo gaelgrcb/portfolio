@@ -1,0 +1,82 @@
+﻿[
+    {
+        "name":  "LogStream",
+        "text":  "# LogStream\nLogStream - A high-performance, concurrent distributed messaging broker built from scratch in Go. Features a custom binary wire protocol over raw TCP sockets, zero-copy I/O optimizations, and a persistent Write-Ahead Log (WAL) storage engine for sub-millisecond Pub/Sub messaging.\n"
+    },
+    {
+        "name":  "go-gin-gorm-api",
+        "text":  "# Go REST API \u0026middot; Gin \u0026 GORM Exploration\n\n![Go](https://img.shields.io/badge/Go-1.27+-00ADD8?style=flat\u0026logo=go\u0026logoColor=white)\n![Gin](https://img.shields.io/badge/Framework-Gin-00ADD8?style=flat\u0026logo=go\u0026logoColor=white)\n![GORM](https://img.shields.io/badge/ORM-GORM-blue?style=flat)\n![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat\u0026logo=postgresql\u0026logoColor=white)\n![License](https://img.shields.io/badge/License-MIT-green?style=flat)\n\n\u003e **Portfolio Project**: A modern, lightweight RESTful service built to gain hands-on experience and familiarity with the Go backend ecosystem, focusing primarily on the **Gin** web framework and **GORM** with PostgreSQL.\n\n---\n\n## 📌 Project Purpose\n\nThe primary goal of this project is to explore and master idiomatic Go design patterns for backend development:\n- **Routing \u0026 HTTP handling**: Implementing high-performance routing, context management, and middleware with [Gin](https://github.com/gin-gonic/gin).\n- **Persistence Layer**: Structuring database connections, connection pooling, and ORM operations using [GORM](https://gorm.io/) and PostgreSQL.\n- **Application Configuration**: Managing environment variables an"
+    },
+    {
+        "name":  "TermWallet",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "sofom-core-api",
+        "text":  "﻿# sofom-core-api\n"
+    },
+    {
+        "name":  "GoNotes",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "gaelgrcb",
+        "text":  "\u003cdiv align=\"center\"\u003e\n  \u003ch1\u003eHi there, I\u0027m Gael 👋\u003c/h1\u003e\n  \u003ch3\u003eInformation Technology Engineer | Full-Stack \u0026 Backend Developer\u003c/h3\u003e\n\n  \u003cdiv align=\"center\"\u003e\n\n  \u003cimg height=\"200\" src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoa3J1c3J1NW45Nnl4bWE5b2tiOXl5bzMzdWtudzZ2bHJpam5tNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif\"/\u003e\n\n\u003c/div\u003e\n\n  \u003cp\u003e📍 Guadalajara, Jalisco 🇲🇽\u003c/p\u003e\n\n\u003ca href=\"https://www.linkedin.com/in/gaelgrcb/\" target=\"_blank\"\u003e\u003cimg src=\"https://skillicons.dev/icons?i=linkedin\" height=\"40\" alt=\"linkedin logo\" /\u003e\u003c/a\u003e\u0026nbsp;\u0026nbsp;\n\u003ca href=\"mailto:gaelgarciabst@gmail.com\" target=\"_blank\"\u003e\u003cimg src=\"https://skillicons.dev/icons?i=gmail\" height=\"40\" alt=\"gmail logo\" /\u003e\u003c/a\u003e\u0026nbsp;\u0026nbsp;\n\u003ca href=\"https://www.instagram.com/gaelgrcb/\" target=\"_blank\"\u003e\u003cimg src=\"https://skillicons.dev/icons?i=instagram\" height=\"40\" alt=\"instagram logo\" /\u003e\u003c/a\u003e\u0026nbsp;\u0026nbsp;\n\u003ca href=\"https://www.hackerrank.com/profile/gaelgrcb/\" target=\"_blank\"\u003e\u003cimg src=\"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg\" height=\"40\" alt=\"hackerrank logo\"/\u003e\u003c/a\u003e\n\u003c/div\u003e\n\n\u003cbr/\u003e\n\n### 👨‍💻 About Me\n\nI am a Software Developer specializing in b"
+    },
+    {
+        "name":  "HelpDesk",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "Landing_NuriaAcosta",
+        "text":  "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).\n\n## Getting Started\n\nFirst, run the development server:\n\n```bash\nnpm run dev\n# or\nyarn dev\n# or\npnpm dev\n# or\nbun dev\n```\n\nOpen [http://localhost:3000](http://localhost:3000) with your browser to see the result.\n\nYou can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.\n\nThis project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.\n\n## Learn More\n\nTo learn more about Next.js, take a look at the following resources:\n\n- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.\n- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.\n\nYou can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!\n\n## Deploy on Vercel\n\nThe easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-t"
+    },
+    {
+        "name":  "hive",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "beauyou",
+        "text":  "# 🌸 beauyou\n\n\u003e **Tu piel cuenta una historia. Aprendamos a escucharla.**\n\nbeauyou es una aplicación web que ayuda a las personas a entender lo que su piel\nnecesita en este momento. Toma una foto, identifica con cariño los focos que\npodrían cuidarse y recomienda productos de marcas aliadas adaptados al perfil\ndetectado.\n\nEste repositorio es el **MVP** del producto: funciona end-to-end con **mocks**.\nMás adelante el \"analizador\" será sustituido por un LLM/vision-model real sin\ntocar la interfaz, gracias a la interfaz `Analyzer` definida en\n[`src/lib/types.ts`](src/lib/types.ts).\n\n---\n\n## ✨ Concepto\n\n- **Para quién:** principalmente mujeres jóvenes-adultas interesadas en\n  skincare, sin excluir a nadie. El tono evita el lenguaje \"anti-edad\" o\n  \"imperfección\" y prioriza vocabulario cariñoso y empoderador.\n- **Qué resuelve:** la abrumadora oferta cosmética y la inseguridad que genera.\n  beauyou simplifica el descubrimiento de rutina con foco en *acompañar*, no en\n  *prescribir*.\n- **Modelo de negocio (en exploración):** marcas sponsor patrocinan\n  recomendaciones priorizadas. Las recomendaciones siempre muestran que son\n  patrocinadas para conservar la confianza.\n- **Privacidad:** la "
+    },
+    {
+        "name":  "Nutry",
+        "text":  "# Nutry\n\nSaaS para nutriólogos: gestión de pacientes, consultas, antropometría y planes nutricionales asistidos por IA.\n\nStack: **Next.js 16** · **TypeScript** · **Drizzle ORM** · **PostgreSQL** · **Better Auth** · **Tailwind v4 + shadcn/ui** · **Vitest**\n\n\u003e Contexto completo del producto en [`PROJECT.md`](./PROJECT.md). Mapa del código en [`docs/project-map.md`](./docs/project-map.md).\n\n---\n\n## Arquitectura de entornos\n\n| Entorno | DB | Cómo se configura |\n|---|---|---|\n| **Local (tu laptop)** | Docker Postgres en `localhost:5433` | `.env.local` (gitignored) |\n| **Production (Vercel)** | Supabase | Vercel UI → Settings → Environment Variables |\n\n**Nunca compartas DBs entre entornos.** Mismo schema, conexiones distintas.\n\n---\n\n## Setup local\n\nPre-requisitos: Node 22+, pnpm 10+, Docker Desktop.\n\n```powershell\n# 1. Dependencias\npnpm install\n\n# 2. Variables de entorno\ncp .env.example .env.local\n# Edita .env.local — los defaults ya funcionan con Docker\n\n# 3. Levanta Postgres local\npnpm db:up\n\n# 4. Aplica el schema y siembra catálogos\npnpm db:migrate\npnpm db:seed\n\n# 5. Corre la app\npnpm dev    # → http://localhost:3000\n```\n\n---\n\n## Scripts útiles\n\n| Comando | Para qué |\n|---|---|\n| `pnp"
+    },
+    {
+        "name":  "stocker-backend",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "stocker-frontend",
+        "text":  "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).\n\n## Getting Started\n\nFirst, run the development server:\n\n```bash\nnpm run dev\n# or\nyarn dev\n# or\npnpm dev\n# or\nbun dev\n```\n\nOpen [http://localhost:3000](http://localhost:3000) with your browser to see the result.\n\nYou can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.\n\nThis project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.\n\n## Learn More\n\nTo learn more about Next.js, take a look at the following resources:\n\n- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.\n- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.\n\nYou can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!\n\n## Deploy on Vercel\n\nThe easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-t"
+    },
+    {
+        "name":  "expense.control.backend",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "PortfolioSpringboot",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "KOVR",
+        "text":  "\u003cp align=\"center\"\u003e\n  \u003ca href=\"http://nestjs.com/\" target=\"blank\"\u003e\u003cimg src=\"https://nestjs.com/img/logo-small.svg\" width=\"120\" alt=\"Nest Logo\" /\u003e\u003c/a\u003e\n\u003c/p\u003e\n\n[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456\n[circleci-url]: https://circleci.com/gh/nestjs/nest\n\n  \u003cp align=\"center\"\u003eA progressive \u003ca href=\"http://nodejs.org\" target=\"_blank\"\u003eNode.js\u003c/a\u003e framework for building efficient and scalable server-side applications.\u003c/p\u003e\n    \u003cp align=\"center\"\u003e\n\u003ca href=\"https://www.npmjs.com/~nestjscore\" target=\"_blank\"\u003e\u003cimg src=\"https://img.shields.io/npm/v/@nestjs/core.svg\" alt=\"NPM Version\" /\u003e\u003c/a\u003e\n\u003ca href=\"https://www.npmjs.com/~nestjscore\" target=\"_blank\"\u003e\u003cimg src=\"https://img.shields.io/npm/l/@nestjs/core.svg\" alt=\"Package License\" /\u003e\u003c/a\u003e\n\u003ca href=\"https://www.npmjs.com/~nestjscore\" target=\"_blank\"\u003e\u003cimg src=\"https://img.shields.io/npm/dm/@nestjs/common.svg\" alt=\"NPM Downloads\" /\u003e\u003c/a\u003e\n\u003ca href=\"https://circleci.com/gh/nestjs/nest\" target=\"_blank\"\u003e\u003cimg src=\"https://img.shields.io/circleci/build/github/nestjs/nest/master\" alt=\"CircleCI\" /\u003e\u003c/a\u003e\n\u003ca href=\"https://discord.gg/G7Qnnhy\" target=\"_blank\"\u003e\u003cimg src=\"https://img.shields.io/badge/discord-online-b"
+    },
+    {
+        "name":  "Artisocial",
+        "text":  "\u003cp align=\"center\"\u003e\u003ca href=\"https://laravel.com\" target=\"_blank\"\u003e\u003cimg src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\" alt=\"Laravel Logo\"\u003e\u003c/a\u003e\u003c/p\u003e\n\n\u003cp align=\"center\"\u003e\n\u003ca href=\"https://github.com/laravel/framework/actions\"\u003e\u003cimg src=\"https://github.com/laravel/framework/workflows/tests/badge.svg\" alt=\"Build Status\"\u003e\u003c/a\u003e\n\u003ca href=\"https://packagist.org/packages/laravel/framework\"\u003e\u003cimg src=\"https://img.shields.io/packagist/dt/laravel/framework\" alt=\"Total Downloads\"\u003e\u003c/a\u003e\n\u003ca href=\"https://packagist.org/packages/laravel/framework\"\u003e\u003cimg src=\"https://img.shields.io/packagist/v/laravel/framework\" alt=\"Latest Stable Version\"\u003e\u003c/a\u003e\n\u003ca href=\"https://packagist.org/packages/laravel/framework\"\u003e\u003cimg src=\"https://img.shields.io/packagist/l/laravel/framework\" alt=\"License\"\u003e\u003c/a\u003e\n\u003c/p\u003e\n\n## About Laravel\n\nLaravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:\n\n- [Simple, fast routing engine](https://la"
+    },
+    {
+        "name":  "HandTracker-RockPaperScissors",
+        "text":  "# Rock-Paper-Scissors - Hand Tracker Game\n\nA **rock-paper-scissors game** powered by OpenCV, utilizing **hand gesture recognition** to detect and interpret your hand movements.  \nThis interactive game lets you play against the computer, which randomly selects its moves. The system employs **real-time hand tracking** for a smooth and immersive experience.\n\n## Features\n- **Hand Gesture Recognition:** Detects your gestures (rock, paper, scissors) in real-time using MediaPipe\u0027s Hand Tracking.\n- **Dynamic Countdown:** Displays a visual countdown (\"Listo?\", \"Piedra\", \"Papel\", \"Tijera\", \"¡YA!\") before each round.\n- **Game Results:** Highlights the winner of each round for 3 seconds.\n- **Interactive Design:** Enhanced aesthetics with smooth fonts and shadows.\n- **User-Friendly:** Easy-to-use interface with clear instructions.\n\n## How It Works\n1. Place your hand in front of the camera.\n2. Press the **spacebar** to start the game.\n3. Follow the countdown and make your gesture when \"¡YA!\" appears.\n4. The system detects your move and compares it to the computer\u0027s random selection.\n5. The result is displayed on the screen: \"Ganaste\", \"Perdiste\", or \"Empate\".\n6. Press \"q\" to exit the game.\n\n## T"
+    },
+    {
+        "name":  "ApiRest-Blog",
+        "error":  "The remote server returned an error: (404) Not Found."
+    },
+    {
+        "name":  "Script-Phishing",
+        "error":  "The remote server returned an error: (404) Not Found."
+    }
+]

@@ -1,0 +1,69 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2817 >>
+stream
+BT /F1 9 Tf 50 740 Td 11 TL
+(GAEL GARCIA) Tj T*
+(Desarrollador de Software | Mazatlan, Sinaloa, Mexico | \(+52\) 669 223 9400) Tj T*
+(Correo: gaelgarciabst@gmail.com | LinkedIn: linkedin.com/in/gaelgrcb | GitHub: github.com/gaelgrcb) Tj T*
+() Tj T*
+(PERFIL PROFESIONAL) Tj T*
+(Desarrollador de software con 2+ anos de experiencia, con fuerte en backend. He trabajado en el sector) Tj T*
+(financiero y asegurador, construyendo APIs, automatizando flujos operativos, con experiencia implementando) Tj T*
+(soluciones de IA aplicada y asegurando la integridad de datos sensibles.) Tj T*
+() Tj T*
+(HABILIDADES) Tj T*
+(- Lenguajes y Frameworks: PHP \(Laravel\), Java \(Spring Boot, Spring Batch\), TypeScript \(Angular, React Native\), Python \(FastAPI\)) Tj T*
+(- Bases de Datos e Infraestructura: MySQL, PostgreSQL, SQL Server, Docker, Git, GitHub Actions, Linux) Tj T*
+(- Arquitectura y Seguridad: SOLID, Design Patterns, REST, Webhooks, RBAC, JWT, AES, TLS) Tj T*
+(- Habilidades Blandas: Comunicacion con stakeholders, Autonomia / gestion de ciclo completo, Resolucion de problemas) Tj T*
+() Tj T*
+(EXPERIENCIA PROFESIONAL) Tj T*
+(ATP SOFOM | Mazatlan, Sinaloa | Desarrollador de Software | Mayo 2026 - Presente) Tj T*
+(- Desarrolle modulos de bonos por contencion de cartera en PHP y Angular, mejorando la salud de la cartera de credito.) Tj T*
+(- Automatice el proceso de carga, identificacion y aplicacion de ingresos bancarios BBVA con trazabilidad de conciliacion.) Tj T*
+(- Implemente mecanismo de snapshot de datos del cliente en solicitudes de prestamo con auditoria completa de cambios.) Tj T*
+() Tj T*
+(Besson Seguros | Guadalajara, Jalisco | Desarrollador de Software | Enero 2025 - Mayo 2026) Tj T*
+(- Migre sistema legacy de Java 5 a Java 21 \(Spring Boot & Batch\) para archivos de +2.5M de lineas \(5 dias a 20 min\).) Tj T*
+(- Chatbot cotizaciones MetLife: OCR de INE con Ollama, RAG de coberturas, automatizacion GUI y React Native \(~5s\).) Tj T*
+(- Sistema de notificaciones automatizadas con Laravel y Webhooks \(alertas de WhatsApp para siniestros y pagos\).) Tj T*
+(- Plataforma interna en Laravel para calculo de bonos y comisiones \(+32.3% en rendimiento de ventas y cobranza\).) Tj T*
+() Tj T*
+(Toolsnet | Zapopan, Jalisco | Desarrollador Web | Mayo 2024 - Diciembre 2024) Tj T*
+(- Desarrolle soluciones a medida en PHP para PyMEs \(tiendas en linea, landing pages y sistemas internos\).) Tj T*
+(- Gestion del ciclo completo con clientes mediante reuniones de descubrimiento, MVPs e iteraciones progresivas.) Tj T*
+() Tj T*
+(EDUCACION) Tj T*
+(Universidad Politecnica de Sinaloa: Ingenieria en Tecnologias de la Informacion | 2021 - 2024) Tj T*
+() Tj T*
+(CERTIFICACIONES) Tj T*
+(Cisco Certified Network Associate \(CCNA\): Network Security | Enterprise Networking | Switching & Routing) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000003110 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3180
+%%EOF
