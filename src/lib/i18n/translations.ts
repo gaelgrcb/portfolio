@@ -154,7 +154,6 @@ export const translations: Record<Language, Translations> = {
       {
         id: "languages-frameworks",
         title: "Languages & Frameworks",
-        domain: "backend / APIs / runtime",
         description:
           "Scalable services, concurrent stream processing, and modern applications with strict typing.",
         skills: [
@@ -172,7 +171,6 @@ export const translations: Record<Language, Translations> = {
       {
         id: "databases-infra",
         title: "Databases & Infrastructure",
-        domain: "persistence / containers / CI-CD",
         description:
           "Relational data modeling, transactional ACID integrity, and automated cloud workflows.",
       skills: [
@@ -190,7 +188,6 @@ export const translations: Record<Language, Translations> = {
     {
       id: "architecture-security",
       title: "Architecture, Security & Networks",
-      domain: "security / integrations / networks",
       description:
         "Enterprise software patterns, sensitive financial data protection, and solid networking fundamentals.",
       skills: [
@@ -564,7 +561,6 @@ es: {
     {
       id: "languages-frameworks",
       title: "Lenguajes y Frameworks",
-      domain: "backend / APIs / runtime",
       description:
         "Desarrollo de servicios escalables, procesamiento concurrente y aplicaciones modernas con tipado estricto.",
       skills: [
@@ -582,7 +578,6 @@ es: {
     {
       id: "databases-infra",
       title: "Bases de Datos e Infraestructura",
-      domain: "persistencia / contenedores / CI-CD",
       description:
         "Diseño de modelos relacionales, integridad transaccional y automatización de despliegues.",
       skills: [
@@ -600,7 +595,6 @@ es: {
     {
       id: "architecture-security",
       title: "Arquitectura, Seguridad y Redes",
-      domain: "diseño / seguridad / redes",
       description:
         "Patrones de diseño de software, seguridad de datos sensibles y fundamentos sólidos de networking.",
       skills: [

@@ -33,7 +33,6 @@ export interface Profile {
 export interface SkillCategory {
   id: string;
   title: string;
-  domain: string;
   description: string;
   skills: {
     name: string;

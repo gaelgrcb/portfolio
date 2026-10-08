@@ -4,7 +4,6 @@ export const skillCategories: SkillCategory[] = [
   {
     id: "languages-frameworks",
     title: "Lenguajes y Frameworks",
-    domain: "backend / APIs / runtime",
     description:
       "Desarrollo de servicios escalables, procesamiento concurrente y aplicaciones modernas con tipado estricto.",
     skills: [
@@ -22,7 +21,6 @@ export const skillCategories: SkillCategory[] = [
   {
     id: "databases-infra",
     title: "Bases de Datos e Infraestructura",
-    domain: "persistencia / contenedores / CI-CD",
     description:
       "Diseño de modelos relacionales, integridad transaccional y automatización de despliegues.",
     skills: [
@@ -40,7 +38,6 @@ export const skillCategories: SkillCategory[] = [
   {
     id: "architecture-security",
     title: "Arquitectura, Seguridad y Redes",
-    domain: "diseño / seguridad / redes",
     description:
       "Patrones de diseño de software, seguridad de datos sensibles y fundamentos sólidos de networking.",
     skills: [
